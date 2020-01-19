@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["dashboard"],{9406:function(a,e,n){"use strict";n.r(e);var s=function(){var a=this,e=a.$createElement,n=a._self._c||e;return n("div",{staticClass:"dashboard"},[n("view-header",{attrs:{name:"概览"}})],1)},t=[],r={name:"dashboard"},d=r,l=n("2877"),o=Object(l["a"])(d,s,t,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=dashboard.1bb9f96f.js.map
